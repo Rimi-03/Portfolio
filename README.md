@@ -19,4 +19,4 @@ Feel free to reach out via [Linkedin](https://www.linkedin.com/in/khadiza-sultan
 
 
 ## 🔗 Live Demo
-https://rimi-03.github.io/Portfolio/
+[Check Out](https://rimi-03.github.io/Portfolio/)
